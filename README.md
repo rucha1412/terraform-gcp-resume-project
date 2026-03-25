@@ -28,5 +28,4 @@ terraform plan
 terraform apply
 
 
-  <img width="1590" height="965" alt="Screenshot 2026-03-25 at 11 31 40 AM" src="https://github.com/user-attachments/assets/07015f64-ed88-4e28-a6ed-b9bc8bc51077" />
-
+  
