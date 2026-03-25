@@ -1,29 +1,27 @@
-# Terraform GCP Resume Project
+# 🚀 Terraform GCP Production Project
 
-This project provisions a simple production-style infrastructure on Google Cloud using Terraform.
+This project provisions a production-style infrastructure on Google Cloud using Terraform.
 
-## Services used
+## 🧱 Architecture
 
-- Terraform
-- Google Cloud Run
-- Google Cloud SQL
-- Google Secret Manager
-- Service Accounts
-- GitHub
+- Cloud Run (serverless app)
+- Cloud SQL (MySQL database)
+- Secret Manager (secure password storage)
+- Service Account (secure identity)
+- Terraform modules (clean architecture)
 
-## What it does
+## ⚙️ What this project demonstrates
 
-- Creates a service account for Cloud Run
-- Stores DB password in Secret Manager
-- Creates a MySQL database in Cloud SQL
-- Deploys a Cloud Run service
-- Connects Terraform modules using outputs and variables
+- Infrastructure as Code (Terraform)
+- Modular Terraform design
+- Secure secret management
+- Cloud Run deployment
+- Cloud SQL provisioning
+- IAM role configuration
 
-## Project structure
+## 🚀 How to run
 
-- root module for orchestration
-- child modules for each service
-
-## Why I built it
-
-To showcase hands-on Infrastructure as Code skills on GCP for resume and recruiter visibility.
+```bash
+terraform init
+terraform plan
+terraform apply
