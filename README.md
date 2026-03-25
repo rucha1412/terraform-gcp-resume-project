@@ -25,3 +25,6 @@ This project provisions a production-style infrastructure on Google Cloud using 
 terraform init
 terraform plan
 terraform apply
+
+
+<img width="1590" height="965" alt="Screenshot 2026-03-25 at 11 31 40 AM" src="https://github.com/user-attachments/assets/5bc3e58a-f69e-4c6e-ac67-7290d5e44e6e" />
