@@ -31,12 +31,7 @@ This project provisions the following components:
 
 ## 🚀 How to run
 
-Initialize Terraform:
-
 ```bash
 terraform init
 terraform plan
 terraform apply
-
-```md
-![Cloud Run Deployment](./images/cloudrun.png)
