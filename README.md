@@ -17,6 +17,8 @@ This project provisions a production-style infrastructure on Google Cloud using 
 - Modular Terraform design
 - Secure secret management
 - Cloud Run deployment
+
+
 - Cloud SQL provisioning
 - IAM role configuration
 
@@ -27,5 +29,5 @@ terraform init
 terraform plan
 terraform apply
 
-
+<img width="2464" height="1514" alt="image" src="https://github.com/user-attachments/assets/afa55836-5bfb-408e-99b2-9ccdf30c641c" />
   
