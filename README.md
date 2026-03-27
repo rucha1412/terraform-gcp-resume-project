@@ -36,3 +36,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/rucha1412/terraform-gcp-resume-project.git
 cd terraform-gcp-resume-project
+
+## 📸 Deployment Proof
+
+![Cloud Run Deployment](./cloudrun.png)
