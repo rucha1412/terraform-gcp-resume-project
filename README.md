@@ -36,6 +36,9 @@ terraform init
 terraform plan
 terraform apply
 
+---
+
+
 ## 📸 Deployment Proof
 
 This screenshot shows the application successfully deployed on Google Cloud Run:
