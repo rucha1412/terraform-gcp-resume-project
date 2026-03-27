@@ -1,32 +1,38 @@
 # 🚀 Terraform GCP Production Project
 
-This project provisions a production-style infrastructure on Google Cloud using Terraform.
+This project demonstrates how to provision a production-style infrastructure on Google Cloud using Terraform.
 
+It follows Infrastructure as Code (IaC) principles and includes modular design, secure configurations, and real cloud services.
+
+---
 
 ## 🧱 Architecture
 
-- Cloud Run (serverless app)
-- Cloud SQL (MySQL database)
-- Secret Manager (secure password storage)
-- Service Account (secure identity)
-- Terraform modules (clean architecture)
+This project provisions the following components:
+
+- Cloud Run (serverless application) ☁️  
+- Cloud SQL (MySQL database) 🗄️  
+- Secret Manager (secure credential storage) 🔐  
+- Service Account (secure access control) 👤  
+- Terraform modules (modular and reusable infrastructure) 📦  
+
+---
 
 ## ⚙️ What this project demonstrates
 
-- Infrastructure as Code (Terraform)
-- Modular Terraform design
-- Secure secret management
-- Cloud Run deployment
+- Infrastructure as Code using Terraform  
+- Modular Terraform architecture  
+- Secure secret management using Secret Manager  
+- Cloud Run deployment with containerized app  
+- Cloud SQL provisioning and integration  
+- IAM role configuration and service account usage  
 
-
-- Cloud SQL provisioning
-- IAM role configuration
+---
 
 ## 🚀 How to run
 
-```bash
-terraform init
-terraform plan
-terraform apply
+Clone the repository:
 
-![Cloud Run Deployment](./cloudrun.png)
+```bash
+git clone https://github.com/rucha1412/terraform-gcp-resume-project.git
+cd terraform-gcp-resume-project
