@@ -42,4 +42,7 @@ terraform apply
 
 This screenshot shows the application successfully deployed on Google Cloud Run:
 
-![Cloud Run Deployment](./images/cloudrun.png)
+<p align="center">
+  <img src="./images/cloudrun.png" width="700"/>
+</p>
+
