@@ -31,8 +31,12 @@ This project provisions the following components:
 
 ## 🚀 How to run
 
-Clone the repository:
+Initialize Terraform:
 
 ```bash
-git clone https://github.com/rucha1412/terraform-gcp-resume-project.git
-cd terraform-gcp-resume-project
+terraform init
+terraform plan
+terraform apply
+
+```md
+![Cloud Run Deployment](./images/cloudrun.png)
