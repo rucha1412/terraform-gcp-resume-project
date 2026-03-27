@@ -29,5 +29,4 @@ terraform init
 terraform plan
 terraform apply
 
-<img width="2464" height="1514" alt="image" src="https://github.com/user-attachments/assets/afa55836-5bfb-408e-99b2-9ccdf30c641c" />
-  
+![Cloud Run Deployment](./cloudrun.png)
